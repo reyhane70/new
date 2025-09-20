@@ -12,4 +12,4 @@ while True:
     elif user == "exit":
         break
     else:
-        print("Bot: I don't understand.")
+        print(": I don't understand.")
