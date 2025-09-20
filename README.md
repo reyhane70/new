@@ -1,6 +1,6 @@
 # new  
 responses = {
-    "Hi": "Hello! 👋",
+    "": "Hello! 👋",
     "bye": "Goodbye!",
     "how are you": "I'm just a bot, but I'm fine."
 }
