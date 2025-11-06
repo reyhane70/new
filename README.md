@@ -1,4 +1,3 @@
-# new  
 responses = {
     "Hi": "Hello! 👋",
     "bay": "Goodbye!",
