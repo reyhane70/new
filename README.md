@@ -9,6 +9,6 @@ while True:
     if user in responses:
         print("Bot:", responses[user])
     elif user == "exit":
-        
+       break 
     else:
         print("Bot: I don't understand.")
