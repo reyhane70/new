@@ -1,5 +1,6 @@
 responses = {
-    "bay": "Goodbye!",
+     "Hi": "Hello! 👋",
+  "bay": "Goodbye!",
     "how are you": "I'm just a bot, but I'm fine."
 }
 
